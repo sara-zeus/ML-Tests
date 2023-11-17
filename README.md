@@ -1,6 +1,6 @@
 # ML-Tests
 
-This repository contains my practice on machine learning using a project from [Coursera's Machine Learning with Python course](https://www.coursera.org/learn/machine-learning-with-python).
+This repository contains my practice on machine learning using a project from [IBM's Machine Learning with Python course](https://www.coursera.org/learn/machine-learning-with-python).
 
 ## About
 I've been actively learning machine learning techniques through the Coursera course on Machine Learning with Python. This repository serves as a playground where I implement the concepts taught in the course.
